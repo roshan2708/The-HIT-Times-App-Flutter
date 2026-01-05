@@ -33,6 +33,7 @@ class ReadIssue extends StatelessWidget {
     Tabloid("ISSUE 7", "https://drive.google.com/uc?export=download&id=1Cy4uJ13UljsXLil9b7nfHkD34kpjn1qI"),
     Tabloid("ISSUE 9", "https://drive.google.com/uc?export=download&id=1Grgvc5khunoBavWV7t2utfOmU_kmchQA"),
     Tabloid("ISSUE 10", "https://drive.google.com/uc?export=download&id=1MGEPyNANQX8wv_rk1Oi6ELNJDIK6vAr_"),
+    Tabloid("ISSUE 11", "https://drive.google.com/file/d/1UBdjvhnxtmSuPRr8Md1FdJqwt6Jf4dz_/view?usp=drivesdk"),
   ];
 
   @override
